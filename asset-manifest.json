@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cryptex/static/css/main.c9a74212.css",
+    "main.js": "/Cryptex/static/js/main.738dab7e.js",
+    "static/media/cryptex.png": "/Cryptex/static/media/cryptex.e3fb039f8c3bd84ee3e3.png",
+    "static/media/demoimage.jpeg": "/Cryptex/static/media/demoimage.90230e31eddb4122095e.jpeg",
+    "index.html": "/Cryptex/index.html",
+    "main.c9a74212.css.map": "/Cryptex/static/css/main.c9a74212.css.map",
+    "main.738dab7e.js.map": "/Cryptex/static/js/main.738dab7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a74212.css",
+    "static/js/main.738dab7e.js"
+  ]
+}
